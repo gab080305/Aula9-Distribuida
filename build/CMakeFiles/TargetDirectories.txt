@@ -1,0 +1,4 @@
+/workspaces/Aula9-Distribuida/build/CMakeFiles/generate_grpc_files.dir
+/workspaces/Aula9-Distribuida/build/CMakeFiles/servidor_cpp.dir
+/workspaces/Aula9-Distribuida/build/CMakeFiles/edit_cache.dir
+/workspaces/Aula9-Distribuida/build/CMakeFiles/rebuild_cache.dir
